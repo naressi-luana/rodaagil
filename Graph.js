@@ -1,5 +1,5 @@
 /**
- * @author Érick Luiz Fonseca Lopes 
+ * @author Luana Naressi   
  * @license MIT 
  * @description Lib para criação de gráfico polar 
  */
